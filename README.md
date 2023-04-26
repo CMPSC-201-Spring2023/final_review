@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The exam will be released at 7pm on Friday, 5 May via GitHub. It will be due by midnight on the 5th of May 2023\. Following the process for lab assignments, you will be given a GitHub Classroom assignment link, you can then accept the assignment, clone the `final` repository, and find `final.md` file, which will contain the exam questions. You are invited to type your answers directly in this Markdown file. Continuous Integration will not be used in this repository. You should commit and push your work frequently. The last commit before the due time of midnight on May 5th will be graded.
+The exam will be released at 7pm on Friday, 5 May via GitHub. It will be due by midnight on the 5th of May 2023\. The exam can be taken remotely but it must be taken within the specified time unless prior arrangements were made with the instructor. Following the process for lab assignments, you will be given a GitHub Classroom assignment link, you can then accept the assignment, clone the `final` repository, and find `final.md` file, which will contain the exam questions. You are invited to type your answers directly in this Markdown file. Continuous Integration will not be used in this repository. You should commit and push your work frequently. The last commit before the due time of midnight on May 5th will be graded.
 
 The exam is open notes (hand written, typed, slides, programs, terminal, book). You are to abide by the college's Honor Code policy and the course's Code of Conduct while working on the exam. The answers will be checked for signs of plagiarism from the Internet.
 
