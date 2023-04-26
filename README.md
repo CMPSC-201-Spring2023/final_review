@@ -8,8 +8,6 @@ The exam is open notes (hand written, typed, slides, programs, terminal, book). 
 
 The exam will cover all material up through this semester, concentrating more specifically on material since the midterm exam. The topics covered on the exam are listed below:
 
-- _Programming Language Syntax_: Parsing and Derivation. Grammar, Shift Reduce, Ambiguity.
-
 - _Name, Scope, and Binding_
   - Binding, scoping, binding time.
   - Static vs. dynamic scoping.
